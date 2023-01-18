@@ -77,9 +77,9 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=RiperPro03&&style=flat-square)  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RiperPro03&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
-[![RiperPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiperPro03)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center"><img src="https://camo.githubusercontent.com/fc528bb9419bd69b7efb9585b644c579dba8eeef02dd08c56ee083afcfb6d744/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d526970657250726f3033267468656d653d6461726b26686964655f626f726465723d66616c7365" alt="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=RiperPro03&amp;theme=dark&amp;hide_border=false" style="max-width: 100%;">
+
+<div align="center"><img [![RiperPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiperPro03&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  </div>
  
  
