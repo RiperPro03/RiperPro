@@ -79,8 +79,12 @@
 
 
 
-<div align="center"><img [![RiperPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiperPro03&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RiperPro03&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RiperPro03&repo=anuraghazra.github.io&theme=buefy" />
+</a>
  
  
 <div align="center"><img src="https://camo.githubusercontent.com/a769dda0aa67a71b8b285dac73d5b76abfa3e93674d1346d36ed07b06a7087c8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d526970657250726f3033267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiperPro03&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" style="max-width: 100%;">
