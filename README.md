@@ -10,7 +10,7 @@
   
 
 <br/>  
-
+![Profile views counter](https://komarev.com/ghpvc/?username=RiperPro03&&style=flat-square) 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -71,11 +71,3 @@
   
 
 <br/>  
-
-
-## Github Stats  
-![Profile views counter](https://komarev.com/ghpvc/?username=RiperPro03&&style=flat-square)  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RiperPro03&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiperPo03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
