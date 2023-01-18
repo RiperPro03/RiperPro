@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christopher Asin</h1>
 
-### <div align="center">I'm Christopher, a passionate computer developer 👨‍💻 from French Polynesia 🇵🇫</div>  
+### <div align="center">A passionate computer developer 👨‍💻 from French Polynesia 🇵🇫</div>  
   
 
 - 🔭 I’m currently working on [projet-r301](https://github.com/RiperPro03/projet-r301)  
