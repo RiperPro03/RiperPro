@@ -79,7 +79,11 @@
 
 <div align="center"><img src="https://camo.githubusercontent.com/fc528bb9419bd69b7efb9585b644c579dba8eeef02dd08c56ee083afcfb6d744/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d526970657250726f3033267468656d653d6461726b26686964655f626f726465723d66616c7365" alt="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=RiperPro03&amp;theme=dark&amp;hide_border=false" style="max-width: 100%;">
  </div>
-
+ 
+ 
+<div align="center"><img src="https://camo.githubusercontent.com/a769dda0aa67a71b8b285dac73d5b76abfa3e93674d1346d36ed07b06a7087c8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d526970657250726f3033267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiperPro03&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" style="max-width: 100%;">
+ </div>
+ 
 <br/>  
 
 
