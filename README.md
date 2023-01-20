@@ -9,9 +9,9 @@
 - 🌱 I’m currently learning computer science at IUT Paul Sabatier Toulouse  
   
 
-<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=RiperPro03&&style=flat-square" align="center" />
-</div>  
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
