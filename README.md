@@ -58,8 +58,9 @@
 </td></tr></table>  
 
 <br/>  
+<a href="https://linkedin.com/in/christopher-asin" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RiperPro03&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=RiperPro03&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiperPro03&layout=compact&theme=dracula&hide_border=true" />
+<a href="https://linkedin.com/in/christopher-asin" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiperPro03&layout=compact&theme=dracula&hide_border=true" /></a>  
 
 
 ## Connect with me  
