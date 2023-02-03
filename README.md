@@ -59,7 +59,7 @@
 
 <br/>  
 
-<a href="https://github.com/RiperPro03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RiperPro03&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/RiperPro03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiperPro03&layout=compact&theme=tokyonight&hide_border=true" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RiperPro03&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiperPro03&layout=compact&theme=tokyonight&hide_border=true" />
 
 
 ## Connect with me  
