@@ -3,7 +3,7 @@
 ### <div align="center">A passionate computer developer 👨‍💻 from French Polynesia</div>  
   
 
-- 🔭 I’m currently working on [projet-r301](https://github.com/RiperPro03/projet-r301)  
+- 🔭 I’m currently learning Python Django 
   
 
 - 🌱 I’m currently learning computer science at IUT Paul Sabatier Toulouse  
