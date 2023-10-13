@@ -3,7 +3,7 @@
 ### <div align="center">A passionate computer developer 👨‍💻 from French Polynesia</div>  
   
 
-- 🔭 I’m currently learning Python Django 
+- 🔭 I’m currently learning Python Django and FastAPI
   
 
 - 🌱 I’m currently learning computer science at IUT Paul Sabatier Toulouse  
