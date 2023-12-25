@@ -67,7 +67,6 @@
   <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50"/></a> 
   <a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50"/></a> 
   <a href="https://www.invisionapp.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/invision.svg" alt="Invision" height="50"/></a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/></a> 
 </div>
 
 ### Autres Outils et Technologies
@@ -82,6 +81,7 @@
   <a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="50" height="50"/></a> 
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/></a> 
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/></a> 
 </div>
 </td>
   </tr>
