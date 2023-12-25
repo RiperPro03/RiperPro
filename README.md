@@ -32,7 +32,6 @@
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50"/></a> 
   <a href="https://www.cplusplus.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50"/></a> 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"/></a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/></a> 
   </div>
 </td>
 
@@ -68,6 +67,7 @@
   <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50"/></a> 
   <a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50"/></a> 
   <a href="https://www.invisionapp.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/invision.svg" alt="Invision" height="50"/></a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/></a> 
 </div>
 
 ### Autres Outils et Technologies
