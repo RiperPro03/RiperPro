@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Node.JS Project**
 
-- 🌱 I’m currently learning **computer science at IUT Paul Sabatier**
+- 🌱 I’m currently learning **computer science at CESI Toulouse**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
